@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mohit7479936440@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rpMa_eS8Koyasnah5rVx6J-chjE6QPUm/view?usp=drive_link](https://drive.google.com/file/d/1rpMa_eS8Koyasnah5rVx6J-chjE6QPUm/view?usp=drive_link)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1rpMa_eS8Koyasnah5rVx6J-chjE6QPUm/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
