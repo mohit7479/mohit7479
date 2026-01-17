@@ -12,12 +12,13 @@
 💡 I'm a passionate developer who loves building clean and intuitive products.  
 I specialize in **C++, Web Development, and MySQL**, and I genuinely enjoy solving tricky problems.
 
-- 🔭 Currently working on: **[ChargeIT ⚡](https://charge-i-ts.vercel.app)**
+- 🔭 Currently working at: **Card91**
 - 🌱 Learning: **Streamlit** & **Generative AI**
 - 💬 Ask me about: **React, MongoDB, Firebase**
 - 🧩 Portfolio: **[mohit7479.github.io/Portfolio](https://mohit7479.github.io/Portfolio)**
 - 📄 Resume: **[View My Resume](https://drive.google.com/file/d/1L7Bi_p3PuptwtD8UlnBdtf74viOetZXU/view?usp=drive_link)**
 - 📫 Contact: **mohit7479936440@gmail.com**
+
 
 ---
 
