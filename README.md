@@ -17,7 +17,7 @@ Alongside professional work, I also work on **freelance and personal projects**,
 - 🔭 Currently working at **CARD91**
 - 🌱 Learning: **Streamlit & Generative AI**
 - 💬 Ask me about: **React, MongoDB, Firebase**
-- 🧩 Portfolio: **[mohit7479.github.io/Portfolio](https://mohit7479.github.io/Portfolio)**
+- 🧩 Portfolio: **[mohitkr-portfolio.vercel.app](https://mohitkr-portfolio.vercel.app/)**
 - 📄 Resume: **[View Resume](https://drive.google.com/file/d/1L7Bi_p3PuptwtD8UlnBdtf74viOetZXU/view)**
 - 📫 Email: **mohit7479936440@gmail.com**
 
